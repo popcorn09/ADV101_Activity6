@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ADV101_Activity6</string>
+
+    <string-array name="food_options">
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>Fries</item>
+        <item>Float</item>
+        <item>Fried Chicken</item>
+    </string-array>
+
+    <string-array name="price">
+        <item>1200.00</item>
+        <item>120.00</item>
+        <item>25.00</item>
+        <item>80.00</item>
+        <item>35.00</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
